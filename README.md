@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/22528478?s=200&v=4" alt="Paubox" width="150px">
 
-# Paubox PHP
+# Paubox PHP - 10 Degrees fork
 
 This is the official PHP wrapper for the [Paubox Email API](https://www.paubox.com/solutions/email-api). 
 
